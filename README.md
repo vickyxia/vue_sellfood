@@ -1,7 +1,7 @@
 # sell
 
 > hungry sell
-
+## This is my first version of sellfood app.(2018.3.7 commit to github)(2017.11 did)
 ## Build Setup
 
 ``` bash
